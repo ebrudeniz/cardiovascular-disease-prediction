@@ -424,9 +424,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/ebrudeniz)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ebru-deniz)
-- Email: your.email@example.com
+- GitHub: [@ebrudeniz](https://github.com/ebrudeniz)
+- LinkedIn: [ebru-deniz](https://linkedin.com/in/ebru-deniz)
+- Email: ebruudnz00@gmail.com
 
 ---
 
