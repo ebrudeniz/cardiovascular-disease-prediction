@@ -1,0 +1,16 @@
+{
+  "model_type": "XGBoost Classifier",
+  "n_features": 15,
+  "train_samples": 54892,
+  "test_samples": 13723,
+  "train_accuracy": 0.7481418057276106,
+  "train_roc_auc": 0.8245369577629246,
+  "test_accuracy": 0.7289222473220142,
+  "test_roc_auc": 0.7906833990562194,
+  "test_f1": 0.7131842713955281,
+  "cv_mean_roc_auc": 0.7975863219119338,
+  "cv_std_roc_auc": 0.0038426103201336186,
+  "random_state": 42,
+  "test_size": 0.2,
+  "training_date": "2025-12-08 14:30:11"
+}
